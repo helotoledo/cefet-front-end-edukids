@@ -165,6 +165,7 @@ body {
   border: 2px solid white;
   background-color: #fff;
   transition: border-color 250ms ease-out;
+  margin: 8px 0px;
 }
 
 .animal:not(.satisfeito):not(.com-raiva):not(.atacando):hover {
